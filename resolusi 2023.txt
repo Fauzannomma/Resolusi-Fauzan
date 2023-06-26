@@ -1,0 +1,4 @@
+Resolusi Fauzan di Tahun 2023
+-Memahami Javascript lanjutan
+-Expert javascript dasar
+-Memahami React.js
