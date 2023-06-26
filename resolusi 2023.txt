@@ -2,3 +2,5 @@ Resolusi Fauzan di Tahun 2023
 -Memahami Javascript lanjutan
 -Expert javascript dasar
 -Memahami React.js
+-Mendapat job dari situs freelance untuk pertama kali
+-Memperdalam ilmu pemrograman
